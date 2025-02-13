@@ -5,7 +5,7 @@ If you have any requests or caught an error, please open an Issue.
 # Status:
 - uBurst
   - Kammerl Firmware (Cheat Sheet ✅, Print Layout ✅, Vertical Layout ✅)
-  - Parasites Firmware
+  - Parasites Firmware (Cheat Sheet A4 Print Layout ✅) by @jkocontreras
   - OG Firmware
 - Monsoon
 - OG Clouds
